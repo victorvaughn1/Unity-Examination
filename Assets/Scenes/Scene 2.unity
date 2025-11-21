@@ -5517,7 +5517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0edc044f727e2794393a0078298da4ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeInTargetVolume: 0
+  fadeInTargetVolume: 1
   fadeOutTargetVolume: 1
   fadeSpeed: 0.3
 --- !u!82 &1423283541
